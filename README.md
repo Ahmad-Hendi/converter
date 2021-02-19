@@ -2,7 +2,7 @@
 
 ## Firts version of Converter 💲 
 I used Foreign exchange rates API to fetch the information, and React for UI & UX.\
-[Converter] (https://thirsty-bassi-ad5805.netlify.app/)
+https://thirsty-bassi-ad5805.netlify.app/
 
 
 
