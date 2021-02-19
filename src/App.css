@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(191, 243, 70);
+  height: 100vh;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: .5rem;
+}
+
+.input {
+  border: 1px solid red;
+  border-radius: .3em;
+  padding: .35rem;
+  width: 13em;
+}
+
+
+select{
+  margin-left: .60rem;
+}
+
+.equal{
+  font-weight: bold;
+  font-size: 2rem;
+}
