@@ -1,7 +1,13 @@
 # Getting Started with Create React App
 
+## Firts version of Converter 💲 
+I used Foreign exchange rates API to fetch the information, and React for UI & UX.
+
+
+
 ## Picture of the App
 ![](images/appPhoto.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
